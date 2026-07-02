@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:4F46E5,100:9333EA&text=Lasha%20Abramishvili&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20React%20%26%20Node.js&descSize=18&descAlignY=59&animation=fadeIn" alt="Lasha Abramishvili — Full-Stack Developer" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:4F46E5,100:9333EA&text=Lasha%20Abramishvili&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer%20%E2%80%A2%20Backend%20Focused&descSize=18&descAlignY=59&animation=fadeIn" alt="Lasha Abramishvili — Aspiring Full-Stack Developer" />
 
 <p>
