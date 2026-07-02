@@ -26,7 +26,6 @@
 </div>
 
 ## About me
-## 👨‍💻 About me
 
 I'm an aspiring full-stack developer currently focused on backend engineering with **Node.js, Express.js, EJS, and MongoDB**. I enjoy understanding how applications work behind the interface—from APIs and authentication to databases, validation, and clean project structure.
 ```javascript
