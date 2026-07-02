@@ -1,29 +1,48 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:4F46E5,100:9333EA&text=Lasha%20Abramishvili&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer%20%E2%80%A2%20Backend%20Focused&descSize=18&descAlignY=59&animation=fadeIn" alt="Lasha Abramishvili — Aspiring Full-Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:4338CA,100:9333EA&text=Lasha%20Abramishvili&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer%20%E2%80%A2%20Backend%20Focused&descSize=18&descAlignY=59&animation=fadeIn" alt="Lasha Abramishvili — Aspiring Full-Stack Developer" />
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=650&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Building+reliable+backends+with+Node.js+%26+Express;Learning+TypeScript%2C+NestJS+%26+system+design;Turning+data+into+insight+with+SQL+%26+Power+BI;Growing+into+a+confident+full-stack+engineer" alt="Typing introduction" />
+</a>
 
 <p>
   <a href="https://github.com/Lasha-Abrama"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/lashaabramishvili/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abramishvililasha05@gmail.com"><img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=Lasha-Abrama&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/lashaabramishvili/"><img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abramishvililasha05@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Lasha" /></a>
 </p>
 
-<p><strong>Building thoughtful, reliable web products from interface to API.</strong></p>
-<p>Based in Tbilisi, Georgia 🇬🇪 &nbsp;•&nbsp; IT student at Business and Technology University</p>
 <p><strong>Learning deeply, building consistently, and growing into a well-rounded software engineer.</strong></p>
 <p>Backend-focused developer &nbsp;•&nbsp; Data enthusiast &nbsp;•&nbsp; Based in Tbilisi, Georgia 🇬🇪</p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Lasha-Abrama&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-Tbilisi%2C_Georgia-0F172A?style=flat-square&logo=googlemaps&logoColor=A78BFA" alt="Tbilisi, Georgia" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-16A34A?style=flat-square" alt="Open to work" />
+</p>
 
 </div>
 
 ## About me
+## 👨‍💻 About me
 
-I'm a full-stack developer who enjoys turning real product ideas into responsive, maintainable applications. I care about clear interfaces, sensible architecture, and the small details that make software feel polished.
 I'm an aspiring full-stack developer currently focused on backend engineering with **Node.js, Express.js, EJS, and MongoDB**. I enjoy understanding how applications work behind the interface—from APIs and authentication to databases, validation, and clean project structure.
+```javascript
+const lasha = {
+  education: "BSc in Information Technology @ BTU — entering final year",
+  currentFocus: ["Node.js", "Express.js", "MongoDB", "REST APIs", "EJS"],
+  frontend: ["HTML", "CSS", "JavaScript", "React fundamentals"],
+  data: ["Advanced Excel", "Power BI", "SQL", "PostgreSQL"],
+  learningNext: ["TypeScript", "NestJS", "Testing", "Docker", "Next.js"],
+  lookingFor: "Junior developer role or a meaningful internship",
+  mindset: "Learn deeply. Build consistently. Improve every day."
+};
+```
 
-- 🔭 Building full-stack products with **React, Node.js, Express, and MongoDB**
-- 🌍 Recently shipped **EarthLens**, a bilingual country discovery and travel-planning experience
-- 🧠 Deepening my knowledge of **TypeScript, Next.js, system design, and clean architecture**
-- 🤝 Open to **internships, junior developer roles, and project collaborations**
 Alongside web development, I have a strong interest in data analytics and hands-on experience with **advanced Excel, Power BI, SQL, and PostgreSQL**. My long-term goal is to become confident across both backend and frontend development while keeping a data-driven approach to problem-solving.
+I'm an aspiring full-stack developer with a strong current focus on **backend engineering**. I like learning what happens behind the interface: designing APIs, structuring applications, working with databases, implementing authentication, validating data, and turning requirements into working software.
 
 - 🎓 Third-year **Bachelor of Information Technology** student at **Business and Technology University (BTU)**, moving into my final year
 - ⚙️ Currently focused on **Node.js, Express.js, REST APIs, MongoDB, authentication, and EJS**
@@ -31,72 +50,50 @@ Alongside web development, I have a strong interest in data analytics and hands-
 - ⚛️ Building my frontend foundation through college and expanding my experience with **React**
 - 📊 Comfortable working with **Excel, Power BI, SQL, and PostgreSQL**
 - 💼 Open to **junior developer roles and meaningful internships**
+My second strength is **data analytics**. I work confidently with advanced Excel, Power BI, and SQL, and I also have experience with PostgreSQL. That analytical background helps me approach software problems with structure and curiosity.
 
 ## Featured work
+## 🎯 Current focus
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌍 <a href="https://github.com/Lasha-Abrama/Earth-Lens">EarthLens</a></h3>
+<td width="33%" align="center" valign="top">
+<h3>⚙️ Backend</h3>
+<p>Node.js · Express.js<br />REST APIs · Authentication<br />MongoDB · EJS</p>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>📊 Data</h3>
+<p>Advanced Excel · Power BI<br />SQL · PostgreSQL<br />Data-driven thinking</p>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>🚀 Up next</h3>
+<p>TypeScript · NestJS<br />Testing · Docker<br />React · Next.js</p>
+</td>
 </tr>
 </table>
 
-## Technologies
-## Technical toolkit
+<p>An immersive, bilingual country explorer and travel planner covering 253 countries and territories. Includes country comparison, live weather, favorites, a travel wishlist, localization, and offline-resilient data.</p>
+## 🏗️ Featured projects
 
-### Working with now
+<p><code>React 19</code> <code>Vite</code> <code>SCSS Modules</code> <code>i18next</code> <code>Framer Motion</code></p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql&theme=dark&perline=13" alt="Core technologies" />
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,postgres,react&theme=dark&perline=9" alt="Technologies Lasha works with" />
-<br />
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,npm,vite,linux&theme=dark&perline=8" alt="Developer tools" />
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vite&theme=dark&perline=6" alt="Developer tools" />
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black" alt="EJS" />
+<p><a href="https://earth-lens-project.netlify.app/">Live demo</a> · <a href="https://github.com/Lasha-Abrama/Earth-Lens">Source code</a></p>
+<h3>🌍 <a href="https://github.com/Lasha-Abrama/Earth-Lens">EarthLens</a></h3>
+<p>A bilingual country discovery and travel-planning application covering 253 countries and territories, with comparison, live weather, favorites, a wishlist, localization, and resilient data handling.</p>
+<p>
+  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS" />
 </p>
+<p><a href="https://earth-lens-project.netlify.app/"><strong>Live demo ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/Lasha-Abrama/Earth-Lens"><strong>Source code</strong></a></p>
 
-### Learning roadmap
+</td>
+<td width="50%" valign="top">
 
-```text
-Backend foundations      TypeScript · Express with TypeScript · Socket.io
-Backend engineering      NestJS · validation · guards · Mongoose · TypeORM
-Security                 JWT authentication · Google OAuth · 2FA
-API development          Swagger · GraphQL · query optimization
-Quality & delivery       Jest · Docker · AWS S3/EC2 · DigitalOcean
-Frontend growth          React · Next.js · backend/frontend integration
-```
-
-## GitHub activity
-
-<div align="center">
-
-</div>
-
-## What I'm working toward
-## Current direction
-
-```text
-Build production-ready full-stack products   █████████████████░░░
-Strengthen TypeScript and Next.js             ███████████░░░░░░░░░
-Study scalable system design                  █████████░░░░░░░░░░░
-Contribute to open source                     ██████░░░░░░░░░░░░░░
-Now       Strengthen Node.js, Express, MongoDB, auth, and API design
-Next      Learn TypeScript and build structured applications with NestJS
-Then      Add testing, SQL/TypeORM, Docker, GraphQL, and cloud deployment
-Ongoing   Grow with React and Next.js toward confident full-stack work
-```
-
-<div align="center">
-
-### Let's build something useful.
-
-I'm always happy to discuss web development, product ideas, and opportunities to grow with a strong team.
-I'm looking for a junior role or internship where I can contribute, learn from experienced engineers, and keep growing through real-world work.
-
-<a href="mailto:abramishvililasha05@gmail.com"><img src="https://img.shields.io/badge/Start_a_conversation-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation" /></a>
-
+<h3>💳 <a href="https://github.com/Lasha-Abrama/Personal-Finance-App">Personal Finance App</a></h3>
