@@ -113,7 +113,6 @@ My second strength is **data analytics**. I work confidently with advanced Excel
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-
 </p>
 
 <p align="center">
@@ -136,7 +135,7 @@ My second strength is **data analytics**. I work confidently with advanced Excel
   <a href="mailto:abramishvililasha05@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://portfolio-lasha-abramishvili.netlify.app/">
+  <a href="https://personal-portfolio-lasha-abramas-projects.vercel.app/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
