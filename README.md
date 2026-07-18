@@ -135,7 +135,7 @@ My second strength is **data analytics**. I work confidently with advanced Excel
   <a href="mailto:abramishvililasha05@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://personal-portfolio-lasha-abramas-projects.vercel.app/">
+  <a href="https://personal-portfolio-lac-delta-29.vercel.app/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
