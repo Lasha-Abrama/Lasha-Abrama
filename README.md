@@ -130,6 +130,10 @@ My second strength is **data analytics**. I work confidently with advanced Excel
   </a>
 </p>
 
+<p align="center">
+  <img src="https://stats.pphat.top/languages?username=Lasha-Abrama" alt="Language statistics" />
+</p>
+
 ![Top language](https://stats.pphat.top/languages?username=Lasha-Abrama)
 <br/>
 
