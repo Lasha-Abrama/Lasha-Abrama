@@ -76,7 +76,6 @@ My second strength is **data analytics**. I work confidently with advanced Excel
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
     </td>
-
     <td align="center" valign="top" width="50%">
       <strong>Frontend</strong>
       <br/><br/>
@@ -95,7 +94,6 @@ My second strength is **data analytics**. I work confidently with advanced Excel
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
     </td>
-
     <td align="center" valign="top" width="50%">
       <strong>Databases</strong>
       <br/><br/>
@@ -112,7 +110,6 @@ My second strength is **data analytics**. I work confidently with advanced Excel
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
     </td>
-
     <td align="center" valign="top" width="50%">
       <strong>Tools</strong>
       <br/><br/>
@@ -133,9 +130,6 @@ My second strength is **data analytics**. I work confidently with advanced Excel
 <p align="center">
   <img src="https://stats.pphat.top/languages?username=Lasha-Abrama" alt="Language statistics" />
 </p>
-
-![Top language](https://stats.pphat.top/languages?username=Lasha-Abrama)
-<br/>
 
 ## 🔗 Connect with Me
 <p align="center">
