@@ -51,48 +51,106 @@ I'm an aspiring full-stack developer with a strong current focus on **backend en
 - 💼 Open to **junior developer roles and meaningful internships**
 My second strength is **data analytics**. I work confidently with advanced Excel, Power BI, and SQL, and I also have experience with PostgreSQL. That analytical background helps me approach software problems with structure and curiosity.
 
-## Featured work
-## 🎯 Current focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🌍 <a href="https://github.com/Lasha-Abrama/Earth-Lens">EarthLens</a></h3>
-<td width="33%" align="center" valign="top">
-<h3>⚙️ Backend</h3>
-<p>Node.js · Express.js<br />REST APIs · Authentication<br />MongoDB · EJS</p>
-</td>
-<td width="33%" align="center" valign="top">
-<h3>📊 Data</h3>
-<p>Advanced Excel · Power BI<br />SQL · PostgreSQL<br />Data-driven thinking</p>
-</td>
-<td width="33%" align="center" valign="top">
-<h3>🚀 Up next</h3>
-<p>TypeScript · NestJS<br />Testing · Docker<br />React · Next.js</p>
-</td>
-</tr>
-</table>
-
-<p>An immersive, bilingual country explorer and travel planner covering 253 countries and territories. Includes country comparison, live weather, favorites, a travel wishlist, localization, and offline-resilient data.</p>
-## 🏗️ Featured projects
-
-<p><code>React 19</code> <code>Vite</code> <code>SCSS Modules</code> <code>i18next</code> <code>Framer Motion</code></p>
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<p><a href="https://earth-lens-project.netlify.app/">Live demo</a> · <a href="https://github.com/Lasha-Abrama/Earth-Lens">Source code</a></p>
-<h3>🌍 <a href="https://github.com/Lasha-Abrama/Earth-Lens">EarthLens</a></h3>
-<p>A bilingual country discovery and travel-planning application covering 253 countries and territories, with comparison, live weather, favorites, a wishlist, localization, and resilient data handling.</p>
-<p>
-  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS" />
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Lasha-Abrama">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lasha-Abrama&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Lasha-Abrama's GitHub Stats" />
+  </a>
 </p>
-<p><a href="https://earth-lens-project.netlify.app/"><strong>Live demo ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/Lasha-Abrama/Earth-Lens"><strong>Source code</strong></a></p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Lasha-Abrama&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Lasha Abramishvili's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Lasha-Abrama&theme=radical&radius=10" alt="Lasha-Abrama's Activity Graph" />
+</p>
 
-</td>
-<td width="50%" valign="top">
 
-<h3>💳 <a href="https://github.com/Lasha-Abrama/Personal-Finance-App">Personal Finance App</a></h3>
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lasha-Abrama">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lasha-Abrama&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=Lasha-Abrama)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/lashaabramishvili/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/995591104147">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:abramishvililasha05@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://portfolio-lasha-abramishvili.netlify.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/buymeacoffee.com/lasha.abrama" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
+
