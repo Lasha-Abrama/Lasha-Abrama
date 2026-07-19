@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:4338CA,100:9333EA&text=Lasha%20Abramishvili&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer%20%E2%80%A2%20Backend%20Focused&descSize=18&descAlignY=59&animation=fadeIn" alt="Lasha Abramishvili — Aspiring Full-Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,40:1E1B4B,70:4C1D95,100:8B5CF6&text=Lasha%20Abramishvili&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer%20%E2%80%A2%20Backend%20Focused&descSize=18&descAlignY=59&animation=fadeIn" alt="Lasha Abramishvili — Aspiring Full-Stack Developer" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=650&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Building+reliable+backends+with+Node.js+%26+Express;Learning+TypeScript%2C+NestJS+%26+system+design;Turning+data+into+insight+with+SQL+%26+Power+BI;Growing+into+a+confident+full-stack+engineer" alt="Typing introduction" />
